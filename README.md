@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Facundo
 ===============================================================================================================================
 
-I'm a Web Developer
+I'm a Developer
 -------------
 
 I began my journey back in 2022, starting with **HTML**, **CSS**, and **JavaScript**. As I gained confidence, I dove into frontend frameworks like **React**. After building some frontend projects with React, I ventured into creating more advanced features and interactions involving databases and external services, which led me to explore backend development with **Node.js**. Along the way, I learned about both relational like **MySQL** and non-relational databases like **Mongo DB** and how to interact with them by building my own APIs. 
