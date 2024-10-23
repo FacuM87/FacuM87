@@ -6,9 +6,11 @@ I'm a Web Developer
 
 I began my journey back in 2022, starting with **HTML**, **CSS**, and **JavaScript**. As I gained confidence, I dove into frontend frameworks like **React**. After building some frontend projects with React, I ventured into creating more advanced features and interactions involving databases and external services, which led me to explore backend development with **Node.js**.
 
-Along the way, I learned about both relational and non-relational databases such as **Mongo DB** or **MySQL** and how to interact with them by building my own APIs. Currently, I'm studying at the National Technological University (locally known in Argentina as **UTN**), where I'm deepening my knowledge of the technologies I've mentioned, along with many new ones. 
+Along the way, I learned about both relational like **MySQL** and non-relational databases like **Mongo DB** and how to interact with them by building my own APIs. Currently, I'm studying at the National Technological University (locally known in Argentina as **UTN**), where I'm deepening my knowledge of the technologies I've mentioned, along with many new ones. 
 
 Recently, I've been practicing with **Python**, exploring its potential in data processing and automation. I've also developed some Python automation scripts for local businesses, helping them streamline repetitive tasks and generate reports. In addition, I´ve been exploring the backend API development with **Java** and **Spring**.
+
+
 
 * 🌍  I'm based in Buenos Aires, Argentina
 * ✉️  You can contact me at [facundo.mingorance@hotmail.com](mailto:facundo.mingorance@hotmail.com)
