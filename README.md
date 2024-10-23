@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a Developer
 -------------
 
-I began my journey back in 2022, starting with **HTML**, **CSS**, and **JavaScript**. As I gained confidence, I dove into frontend frameworks like **React**. After building some frontend projects with React, I ventured into creating more advanced features and interactions involving databases and external services, which led me to explore backend development with **Node.js**. Along the way, I learned about both relational and non-relational databases such as **MySQL** and **Mongo DB** respectively and how to interact with them by building my own APIs. 
+I began my journey back in 2022, starting with **HTML**, **CSS**, and **JavaScript**. As I gained confidence, I dove into frontend frameworks like **React**. After building some frontend projects with React, I ventured into creating more advanced features and interactions involving databases and external services, which led me to explore backend development with **Node.js**. Along the way, I learned about both relational and non-relational databases (such as **MySQL** and **Mongo DB** respectively) and how to interact with them by building my own APIs. 
 
 Currently, I'm studying at the National Technological University (locally known in Argentina as **UTN**), where I'm deepening my knowledge of the technologies I've mentioned, along with many new ones. 
 
