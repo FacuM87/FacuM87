@@ -8,7 +8,7 @@ I began my journey back in 2022, starting with **HTML**, **CSS**, and **JavaScri
 
 Currently, I'm studying at the National Technological University (locally known in Argentina as **UTN**), where I'm deepening my knowledge of the technologies I've mentioned, along with many new ones. 
 
-Recently, I've been practicing with **Python**, exploring its potential in data processing and automation. I've also developed some Python automation scripts for local businesses, helping them streamline repetitive tasks and generate reports. In addition, I´ve been exploring the backend API development with **Java** and **Spring**.
+Recently, I've been practicing with **Python**, exploring its potential in data processing and automation. I've also developed some Python automation scripts for a local business, helping them streamline repetitive tasks and generate reports. In addition, I´ve been exploring the backend API development with **Java** and **Spring**.
 
 
 
