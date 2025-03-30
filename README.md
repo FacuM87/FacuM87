@@ -14,7 +14,7 @@ Recently, I've been practicing with **Python**, exploring its potential in data 
 
 * 🌍  I'm based in Buenos Aires, Argentina
 * ✉️  You can contact me at [facundo.mingorance@hotmail.com](mailto:facundo.mingorance@hotmail.com)
-* 🚀  I'm currently working as Freelance
+* 🚀  I'm currently working as Developer at **Hogarth WorldWide** 
 
 ### Skills
 
