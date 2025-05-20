@@ -16,16 +16,22 @@ Recently, I've been practicing with **Python**, exploring its potential in data 
 * ✉️  You can contact me at [facundo.mingorance@hotmail.com](mailto:facundo.mingorance@hotmail.com)
 * 🚀  I'm currently working as Developer at **Hogarth WorldWide** 
 
-### Skills
-
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,java,py,mongodb,mysql,react,redux,tailwind&perline=3)](https://skillicons.dev)
-
-
-### Socials
-
+<table width="100%" style="border: none;">
+  <tr>
+    <td align="center" valign="top" style="border: none;">
+      <h3>Skills</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,java,py,mongodb,mysql,react,redux,tailwind&perline=3" alt="My Skills" />
+      </a>
+    </td>
+    <td>
+    </td>
+    <td align="center" valign="top" style="border: none;">
+      <h3>GitHub Stats</h3>
+      <a href="https://github.com/FacuM87">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FacuM87&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
 <p align="left"> <a href="https://www.github.com/FacuM87" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/facundo-mingorance" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-### GitHub Stats
-
-<a href="https://github.com/FacuM87" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FacuM87&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
