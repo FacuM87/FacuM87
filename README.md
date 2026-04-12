@@ -6,7 +6,7 @@ Backend-focused Full Stack Developer
 
 I'm a backend-oriented developer with experience building full-stack applications using modern JavaScript technologies.
 
-I started my journey in 2022 with **HTML**, **CSS**, and **JavaScript**, and quickly moved into **React** for building dynamic user interfaces. As my projects grew in complexity, I transitioned into backend development using **Node.js**, designing APIs and working with both relational (**MySQL**) and non-relational (**MongoDB**) databases.
+I started my journey in 2022 with **HTML**, **CSS**, and **JavaScript**, and quickly moved into **React** for building dynamic user interfaces. As my projects grew in complexity, I transitioned into backend development using **Node.js**, designing APIs and working with both relational (**MySQL** and **PostgreSQL**) and non-relational (**MongoDB**) databases.
 
 I also work with **TypeScript** to build more scalable and maintainable applications.
 
