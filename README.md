@@ -4,26 +4,24 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend-focused Full Stack Developer
 -----------------------
 
-I'm a backend-oriented developer with experience building full-stack applications using modern JavaScript technologies.
+I'm a **Software Developer** with a strong **backend focus** and professional experience building **web applications**, **internal tools**, and **automation solutions**.
 
-I started my journey in 2022 with **HTML**, **CSS**, and **JavaScript**, and quickly moved into **React** for building dynamic user interfaces. As my projects grew in complexity, I transitioned into backend development using **Node.js**, designing APIs and working with both relational (**MySQL** and **PostgreSQL**) and non-relational (**MongoDB**) databases.
+My primary stack includes **JavaScript/TypeScript**, **Node.js**, **React**, **Next.js**, and **Python**. I have experience designing and developing **REST APIs**, integrating third-party services, working with both **relational** and **NoSQL databases**, and building scalable applications that address real-world business needs.
 
-I also work with **TypeScript** to build more scalable and maintainable applications.
+Throughout my projects and professional experience, I've worked with technologies such as **React**, **Next.js**, **Node.js**, **Express**, **Python**, **MongoDB**, **PostgreSQL**, **MySQL**, **Firebase**, and **Angular**.
 
-Currently, I'm finishing my degree as a **Programming Technician** at the **National Technological University (UTN)**, while continuing to deepen my knowledge in software architecture and scalable systems.
+I hold a **Programming Technician degree** from the **National Technological University (UTN)** and continuously expand my knowledge in **software architecture**, **system design**, and modern development practices.
 
-In my professional experience, I work as a Developer at **Hogarth Worldwide (WPP Production)**, where I contribute to real-world projects and production environments.
+Currently, I work as a **Developer at WPP Production**, contributing to **production-grade applications** and collaborating within multidisciplinary teams.
 
-Lately, I've been working with **Next.js**, building more robust and SEO-friendly applications, and exploring its full potential for full-stack development.
-
-I've also developed automation tools using **Python**, helping businesses optimize repetitive processes and improve efficiency.
+I'm particularly interested in **backend development**, **automation**, **APIs**, **scalable systems**, and building software that solves real business problems.
 
 ---
 
 * 🌍 I'm based in Buenos Aires, Argentina  
 * ✉️ You can contact me at [facundo.mingorance@hotmail.com](mailto:facundo.mingorance@hotmail.com)  
-* 🚀 Currently working at **Hogarth Worldwide - WPP Production**  
-* 🎓 Final project away from becoming a Programming Technician  
+* 🚀 Currently working at **WPP Production**  
+* 🎓 Programming Technician degree from "Universidad Tecnológica Nacional" (UTN)
 
 ---
 
