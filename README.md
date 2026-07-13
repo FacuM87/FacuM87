@@ -12,7 +12,7 @@ Throughout my projects and professional experience, I've worked with technologie
 
 I hold a **Programming Technician degree** from the **National Technological University (UTN)** and continuously expand my knowledge in **software architecture**, **system design**, and modern development practices.
 
-Currently, I work as a **Developer at WPP Production**, contributing to **production-grade applications** and collaborating within multidisciplinary teams.
+Currently, I am a **Developer at WPP Production**, where I contribute to **production-grade applications** and collaborate with multidisciplinary teams.
 
 I'm particularly interested in **backend development**, **automation**, **APIs**, **scalable systems**, and building software that solves real business problems.
 
