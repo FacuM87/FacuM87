@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Facu
 ===============================================================================================================================
 
-Backend-focused Full Stack Developer
+Software Developer | Backend-Focused Full Stack Engineer | Data Science Student
 -----------------------
 
 I'm a **Software Developer** with a strong **backend focus** and professional experience building **web applications**, **internal tools**, and **automation solutions**.
@@ -10,19 +10,17 @@ My primary stack includes **JavaScript/TypeScript**, **Node.js**, **React**, **N
 
 Throughout my projects and professional experience, I've worked with technologies such as **React**, **Next.js**, **Node.js**, **Express**, **Python**, **MongoDB**, **PostgreSQL**, **MySQL**, **Firebase**, and **Angular**.
 
-I hold a **Programming Technician degree** from the **National Technological University (UTN)** and continuously expand my knowledge in **software architecture**, **system design**, and modern development practices.
+I hold an **Associate degree in Programming** from the **Universidad Tecnológica Nacional (UTN)** and am currently pursuing a **Bachelor's Degree in Data Science** at the **Universidad del Gran Rosario (UGR)**. My long-term goal is to combine my software engineering background with Data Science, Machine Learning, and Artificial Intelligence to build intelligent systems that solve real-world problems
 
-Currently, I am a **Developer at WPP Production**, where I contribute to **production-grade applications** and collaborate with multidisciplinary teams.
-
-I'm particularly interested in **backend development**, **automation**, **APIs**, **scalable systems**, and building software that solves real business problems.
+I am currently a **Developer at WPP Production**, where I contribute to **production-grade applications** and collaborate with multidisciplinary teams.
 
 ---
 
 * 🌍 I'm based in Buenos Aires, Argentina  
 * ✉️ You can contact me at [facundo.mingorance@hotmail.com](mailto:facundo.mingorance@hotmail.com)  
 * 🚀 Currently working at **WPP Production**  
-* 🎓 Programming Technician degree from "Universidad Tecnológica Nacional" (UTN)
-
+* 🎓 Programming Technician Associate Degree — Universidad Tecnológica Nacional (UTN)
+* 🎓 Currently pursuing a Bachelor's Degree in Data Science — Universidad del Gran Rosario (UGR)
 ---
 
 ### 🧠 Skills
