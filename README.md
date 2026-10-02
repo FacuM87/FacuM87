@@ -12,7 +12,9 @@ Throughout my projects and professional experience, I've worked with technologie
 
 I hold an **Associate degree in Programming** from the **Universidad Tecnológica Nacional (UTN)** and am currently pursuing a **Bachelor's Degree in Data Science** at the **Universidad del Gran Rosario (UGR)**. My long-term goal is to combine my software engineering background with Data Science, Machine Learning, and Artificial Intelligence to build intelligent systems that solve real-world problems
 
-I am currently a **Developer at WPP Production**, where I contribute to **production-grade applications** and collaborate with multidisciplinary teams.
+I am currently working as a **Software Developer at WPP Production**, where I contribute to **production-grade applications** for our client, a **leading global technology company**, and collaborate with **multidisciplinary teams** to deliver high-quality digital solutions.
+
+
 
 ---
 
